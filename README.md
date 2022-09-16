@@ -18,7 +18,6 @@
     <a href="https://www.kth.se/en/studies/master/embedded-systems/msc-embedded-systems-1.70455">
     <img src="https://img.shields.io/badge/MSc%20Embedded%20Systems%20Engineering%20(Current)-KTH%20Royal%20Institute%20of%20Technology-%231954A5"
          alt="MSc Embedded Systems Engineering">
-         <a href="https://www.linkedin.com/in/zacharie-m-97695890/">
      <!-- <img src="https://img.shields.io/badge/-Zacharie%20McCormick-0077B5?style=flat&logo=Linkedin&logoColor=white"/> -->
 </p>
 
@@ -31,7 +30,7 @@ Hi, my name is Zacharie and I'm am a Mechanical Engineer from Québec, Canada. I
 
 Ultimate Strat             |  Chess Bot                | LED Pannel
 :-------------------------:|:-------------------------:|:-------------------------:
-![A cool guitar mod](https://github.com/thechosenone98/thechosenone98/blob/main/images/PHAT_COIL.png)  |  ![Play chess against a computer on a real chess board](https://github.com/thechosenone98/thechosenone98/blob/main/images/CHESS_BOT.png) |  ![16x16 LED Pannel](https://github.com/thechosenone98/thechosenone98/blob/main/images/LED_PANNEL.png)
+![A cool guitar mod](https://github.com/thechosenone98/thechosenone98/blob/main/images/PHAT_COIL.png)[GitHub Repo](https://github.com/thechosenone98/Ultimate-Strat)  |  ![Play chess against a computer on a real chess board](https://github.com/thechosenone98/thechosenone98/blob/main/images/CHESS_BOT.png)[YouTube](https://www.youtube.com/watch?v=FizT7qsLnvY) |  ![16x16 LED Pannel](https://github.com/thechosenone98/thechosenone98/blob/main/images/LED_PANNEL.png)
 
 ## :snake: Fun Python Projects
 
