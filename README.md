@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
   <br>
   <a href="https://github.com/thechosenone98"><img src="https://github.com/thechosenone98/thechosenone98/blob/main/images/banner.png" alt="Zacharie McCormick"></a>
@@ -21,6 +19,12 @@
      <!-- <img src="https://img.shields.io/badge/-Zacharie%20McCormick-0077B5?style=flat&logo=Linkedin&logoColor=white"/> -->
 </p>
 
+<p align="center">
+  <a href="#electric_plug-embedded-systems-projects">Embedded Systems Projects</a> •
+  <a href="#snake-fun-python-projects">Fun Python Projects</a> •
+  <a href="#envelope-contact">Contact</a>
+</p>
+
 <!-- ## :open_hands: About Me  -->
  <hr />
 Hi, my name is Zacharie and I'm am a Mechanical Engineer from Québec, Canada. I'm currently working on my MSc in Embedded Systems Engineering at KTH Royal Institute of Technology in Stockholm, Sweden. I love robotics, electronics, programming, mechanical design, automating stuff and learning new things.
@@ -35,3 +39,15 @@ Ultimate Strat             |  Chess Bot                | LED Pannel
 ## :snake: Fun Python Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thechosenone98&repo=Etchy&title_color=1954A5?)](https://github.com/thechosenone98/Etchy)
+
+## :envelope: Contact
+
+<p align="center">
+Feel free to get in touch! </br>
+<a href="https://www.linkedin.com/in/zacharie-m-97695890/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=1954A5" />
+</a>
+<a href="mailto:zmc@ug.kth.se">
+  <img align="center" src="https://img.shields.io/badge/Email-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=1954A5" />
+</a>
+</p>
