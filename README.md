@@ -25,20 +25,25 @@
   <a href="#envelope-contact">Contact</a>
 </p>
 
+
 <!-- ## :open_hands: About Me  -->
  <hr />
 Hi, my name is Zacharie and I'm am a Mechanical Engineer from Québec, Canada. I'm currently working on my MSc in Embedded Systems Engineering at KTH Royal Institute of Technology in Stockholm, Sweden. I love robotics, electronics, programming, mechanical design, automating stuff and learning new things.
 
 ## :electric_plug: Embedded Systems Projects
- <hr />
 
 Ultimate Strat             |  Chess Bot                | LED Pannel
 :-------------------------:|:-------------------------:|:-------------------------:
-[![A cool guitar mod](https://github.com/thechosenone98/thechosenone98/blob/main/images/PHAT_COIL.jpg)](https://github.com/thechosenone98/Ultimate-Strat)  |  [![Play chess against a computer on a real chess board](https://github.com/thechosenone98/thechosenone98/blob/main/images/CHESS_BOT.jpg)](https://www.youtube.com/watch?v=FizT7qsLnvY) |  <picture><img alt="16x16 LED Panel" src="https://github.com/thechosenone98/thechosenone98/blob/main/images/LED_PANEL.jpg"></picture>
+[![A cool guitar mod](https://github.com/thechosenone98/thechosenone98/blob/main/images/PHAT_COIL.jpg)](https://github.com/thechosenone98/Ultimate-Strat)  |  [![Play chess against a computer on a real chess board](https://github.com/thechosenone98/thechosenone98/blob/main/images/CHESS_BOT.jpg)](https://www.youtube.com/watch?v=FizT7qsLnvY) |  ![16x16 LED Pannel](https://github.com/thechosenone98/thechosenone98/blob/main/images/LED_PANEL.jpg)
 
-## :snake: Fun Python Projects
+## :bulb: Multidisciplinary Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torejohansson97&repo=tightly-coupled-gnss-data-logger&title_color=1954A5%3F)]([Title](https://github.com/torejohansson97/tightly-coupled-gnss-data-logger/tree/main))
+
+## :snake: Python Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thechosenone98&repo=Etchy&title_color=1954A5?)](https://github.com/thechosenone98/Etchy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thechosenone98&repo=MP3Journaling&title_color=1954A5?)](https://github.com/thechosenone98/MP3Journaling)
 
 ## :envelope: Contact
 
@@ -47,7 +52,7 @@ Feel free to get in touch! </br>
 <a href="https://www.linkedin.com/in/zacharie-m-97695890/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-Say%20hi!-informational?style=flat&logo=LinkedIn&logoColor=white&color=1954A5" />
 </a>
-<a href="mailto:zmc@ug.kth.se">
+<a href="mailto:zacfire1998@hotmail.fr">
   <img align="center" src="https://img.shields.io/badge/Email-Say%20hi!-informational?style=flat&logo=Gmail&logoColor=white&color=1954A5" />
 </a>
 </p>
