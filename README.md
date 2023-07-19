@@ -38,7 +38,7 @@ Ultimate Strat             |  Chess Bot                | LED Pannel
 
 ## :bulb: Multidisciplinary Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torejohansson97&repo=tightly-coupled-gnss-data-logger&title_color=1954A5%3F)]([Title](https://github.com/torejohansson97/tightly-coupled-gnss-data-logger/tree/main))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=torejohansson97&repo=tightly-coupled-gnss-data-logger&title_color=1954A5%3F)](https://github.com/torejohansson97/tightly-coupled-gnss-data-logger/tree/main)
 
 ## :snake: Python Projects
 
